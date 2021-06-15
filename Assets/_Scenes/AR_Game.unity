@@ -198,6 +198,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1305001344}
   - component: {fileID: 1305001343}
+  - component: {fileID: 1305001345}
   m_Layer: 0
   m_Name: AR Session Origin
   m_TagString: Untagged
@@ -233,6 +234,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1305001345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1305001342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1760703bbd54c04488a8d10600262ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PlanePrefab: {fileID: 159935461028252372, guid: 088514d4d25e70849a9c28d2a829051a,
+    type: 3}
+  m_DetectionMode: 1
 --- !u!1 &1389988787
 GameObject:
   m_ObjectHideFlags: 0
@@ -352,7 +368,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1389988787}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 971870826}
@@ -596,6 +612,26 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1389988788}
+    - target: {fileID: 1333977794061746244, guid: c0f74416e76d84941898e3875d48064d,
+        type: 3}
+      propertyPath: m_PlaneDistance
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333977794061746245, guid: c0f74416e76d84941898e3875d48064d,
+        type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333977794061746245, guid: c0f74416e76d84941898e3875d48064d,
+        type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333977794061746245, guid: c0f74416e76d84941898e3875d48064d,
+        type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1333977794061746247, guid: c0f74416e76d84941898e3875d48064d,
         type: 3}
       propertyPath: m_Name
