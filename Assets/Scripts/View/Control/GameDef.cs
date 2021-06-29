@@ -15,12 +15,12 @@ namespace View.Control
         // TODO: Move all constants to a configuration file
 
         // Board Scaling
-        public float Scaling = 2f;
-        public float NodeScaling = 1.0f;
-        public float EdgeScaling = 1.0f;
-        public float BoardScaling = 1.0f;
-        public float BoardPadding = 1.0f;
-        public Vector3 BoardRotation = new Vector3(24f, 12f, 0f);
+        public float Scaling = 1f;
+        public float NodeScaling = 0.5f;
+        public float EdgeScaling = 0.5f;
+        public float BoardScaling = 0.5f;
+        public float BoardPadding = 0.5f;
+        public Vector3 BoardRotation = new Vector3(0f, 0f, 0f);
 
         // Board Input
         public float MinSwipeDistanceCm = 0.5f;

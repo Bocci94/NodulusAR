@@ -129,7 +129,8 @@ namespace View.Game
         /// </summary>
         public void Init(int level, float animationSpeed = 1f, float delayScale = 1f, bool restart = false)
         {
-            if (level < 0 || level > _puzzleSpawner.LevelCount) {
+            Debug.Log("PuzzleState inizia qui");   //  *****
+            if (level < 0 || level > _puzzleSpawner.LevelCount) {   //livello non esistente
                 Debug.LogWarning("Requested level is outside of bounds, ignoring request");
                 return;
             }
@@ -148,7 +149,10 @@ namespace View.Game
             _arcMap.Reset(_puzzleSpawner.ArcMap);
             _fieldMap.Reset(_puzzleSpawner.FieldMap);
             _nodeMap = _puzzleSpawner.NodeMap;
-
+            
+            
+            
+            
             // Init all scripts that require additional information on startup
             _boardAction.Init();
             _puzzleView.Init(_puzzle.StartNode.Position, _puzzle.BoardSize);
@@ -170,6 +174,7 @@ namespace View.Game
             _boardAction.HighlightAll();
             
             LevelStateChanged?.Invoke(LevelState(), _puzzle.Win);
+            Debug.Log("PuzzleState finisce qui");   //  *****
         }
 
         public void NextLevel(float delay = 0f)

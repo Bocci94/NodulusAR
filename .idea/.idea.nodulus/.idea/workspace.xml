@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1841d71-8d74-413a-bdd8-ced270eb473d" name="Default Changelist" comment="" />
+    <list default="true" id="e1841d71-8d74-413a-bdd8-ced270eb473d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.nodulus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.nodulus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/AR/ARPlane.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/AR/ARPlane.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game/PuzzleGame.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game/PuzzleGame.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/Game/Levels.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/Game/Levels.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/View/Control/GameDef.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/View/Control/GameDef.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleSpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/View/Items/ScaleScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/View/Items/ScaleScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/XRGeneralSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/XRGeneralSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/AR_Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/AR_Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/NodulusGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/NodulusGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +32,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/GraphicRaycaster.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARPoseDriver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARRaycastManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/CAF5FDE7-3030-4599-A812-F2EE2026848F/de/a4301654/0200002Apdb.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DDF8EAC-3856-492A-B1B8-CF42618915CC/84/15255d7d/GUITargetAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AR_Moove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARInputManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0DAB12D4-5C2A-4EDC-9335-79280843BDEB/ca/94a4c5aa/StyleSheet.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARSessionOrigin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraBackground.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/127E81E1-CB34-41CC-97D2-6B1910DAAE77/d1/ecca1349/UnitySynchronizationContext.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Core/Game/Levels.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleSpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/View/Control/GameDef.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/View/Items/ScaleScript.cs" />
+      <option value="$PROJECT_DIR$/../ARFoundation/Assets/Script/ARSceneInteraction.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AR_Moove.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARPoseDriver.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1twkGVR3g5bkUvTd64RgEqPuYVj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +78,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -35,10 +97,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="23952">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="23952" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -47,9 +109,654 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1841d71-8d74-413a-bdd8-ced270eb473d" name="Default Changelist" comment="" />
+      <created>1624114892257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624114892257</updated>
+      <workItem from="1624114909622" duration="1460000" />
+      <workItem from="1624294699770" duration="12218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/GraphicRaycaster.cs</url>
+          <line>305</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\GraphicRaycaster.cs" initialLine="305" containingFunctionPresentation="property 'eventCamera'">
+            <startOffsets>
+              <option value="12303" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12328" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs</url>
+          <line>352</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\ScrollView.cs" initialLine="352" containingFunctionPresentation="method 'GenerateLevel'">
+            <startOffsets>
+              <option value="10398" />
+            </startOffsets>
+            <endOffsets>
+              <option value="10445" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARPoseDriver.cs</url>
+          <line>23</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARPoseDriver.cs" initialLine="23" containingFunctionPresentation="method 'OnEnable'">
+            <startOffsets>
+              <option value="663" />
+            </startOffsets>
+            <endOffsets>
+              <option value="705" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/FpsCounter.cs</url>
+          <line>31</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\FpsCounter.cs" initialLine="31" containingFunctionPresentation="method 'OnGUI'">
+            <startOffsets>
+              <option value="778" />
+            </startOffsets>
+            <endOffsets>
+              <option value="825" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>40</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="40" containingFunctionPresentation="method 'Init'">
+            <startOffsets>
+              <option value="1207" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1268" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/GameDef.cs</url>
+          <line>11</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\GameDef.cs" initialLine="11" containingFunctionPresentation="method 'Awake'">
+            <startOffsets>
+              <option value="267" />
+            </startOffsets>
+            <endOffsets>
+              <option value="278" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>73</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="73" containingFunctionPresentation="method 'ScaleCollider'">
+            <startOffsets>
+              <option value="2237" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2278" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>34</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="34" containingFunctionPresentation="method 'Awake'">
+            <startOffsets>
+              <option value="1073" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1113" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs</url>
+          <line>328</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\ScrollView.cs" initialLine="328" containingFunctionPresentation="method 'GenerateLevelsList'">
+            <startOffsets>
+              <option value="9785" />
+            </startOffsets>
+            <endOffsets>
+              <option value="9843" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs</url>
+          <line>231</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\ScrollView.cs" initialLine="231" containingFunctionPresentation="method 'EnableScroll'">
+            <startOffsets>
+              <option value="6940" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6941" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs</url>
+          <line>203</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\ScrollView.cs" initialLine="203" containingFunctionPresentation="method 'RevealLevels'">
+            <startOffsets>
+              <option value="6052" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6109" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs</url>
+          <line>185</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\ScrollView.cs" initialLine="185" containingFunctionPresentation="method 'Magnetize'">
+            <startOffsets>
+              <option value="5595" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5632" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs</url>
+          <line>155</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\ScrollView.cs" initialLine="155" containingFunctionPresentation="method 'InterpolateCameraZoom'">
+            <startOffsets>
+              <option value="4327" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4328" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs</url>
+          <line>79</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\ScrollView.cs" initialLine="79" containingFunctionPresentation="method 'Start'">
+            <startOffsets>
+              <option value="2286" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2328" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/ScrollView.cs</url>
+          <line>47</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\ScrollView.cs" initialLine="47" containingFunctionPresentation="method 'Awake'">
+            <startOffsets>
+              <option value="1222" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1244" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Items/ScaleScript.cs</url>
+          <line>29</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Items\ScaleScript.cs" initialLine="29" containingFunctionPresentation="method 'SetArc'">
+            <startOffsets>
+              <option value="780" />
+            </startOffsets>
+            <endOffsets>
+              <option value="831" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARSessionOrigin.cs</url>
+          <line>190</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARSessionOrigin.cs" initialLine="190" containingFunctionPresentation="method 'Awake'">
+            <startOffsets>
+              <option value="9271" />
+            </startOffsets>
+            <endOffsets>
+              <option value="9272" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARPoseDriver.cs</url>
+          <line>43</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARPoseDriver.cs" initialLine="43" containingFunctionPresentation="method 'OnDisable'">
+            <startOffsets>
+              <option value="1438" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1439" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>37</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="37" containingFunctionPresentation="method 'OnBeforeSerialize'">
+            <startOffsets>
+              <option value="1492" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1493" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>44</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="44" containingFunctionPresentation="method 'OnAfterDeserialize'">
+            <startOffsets>
+              <option value="1778" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1779" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>67</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="67" containingFunctionPresentation="property 'autoFocusRequested'">
+            <startOffsets>
+              <option value="2549" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2601" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>85</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="85" containingFunctionPresentation="property 'focusMode'">
+            <startOffsets>
+              <option value="3210" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3281" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>93</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="93" containingFunctionPresentation="property 'autoFocusEnabled'">
+            <startOffsets>
+              <option value="3569" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3605" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>107</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="107" containingFunctionPresentation="property 'requestedLightEstimation'">
+            <startOffsets>
+              <option value="4060" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4144" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>122</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="122" containingFunctionPresentation="property 'currentLightEstimation'">
+            <startOffsets>
+              <option value="4649" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4726" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>132</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="132" containingFunctionPresentation="property 'lightEstimationMode'">
+            <startOffsets>
+              <option value="5162" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5211" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>145</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="145" containingFunctionPresentation="property 'requestedFacingDirection'">
+            <startOffsets>
+              <option value="5651" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5732" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>161</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="161" containingFunctionPresentation="property 'currentFacingDirection'">
+            <startOffsets>
+              <option value="6402" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6482" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>169</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="169" containingFunctionPresentation="property 'permissionGranted'">
+            <startOffsets>
+              <option value="6760" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6810" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>182</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="182" containingFunctionPresentation="property 'cameraMaterial'">
+            <startOffsets>
+              <option value="7239" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7292" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>200</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="200" containingFunctionPresentation="method 'TryGetIntrinsics'">
+            <startOffsets>
+              <option value="8195" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8196" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>218</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="218" containingFunctionPresentation="method 'GetConfigurations'">
+            <startOffsets>
+              <option value="8862" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8995" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>237</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="237" containingFunctionPresentation="property 'currentConfiguration'">
+            <startOffsets>
+              <option value="10056" />
+            </startOffsets>
+            <endOffsets>
+              <option value="10123" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>259</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="259" containingFunctionPresentation="method 'TryGetLatestImage'">
+            <startOffsets>
+              <option value="11127" />
+            </startOffsets>
+            <endOffsets>
+              <option value="11165" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>272</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="272" containingFunctionPresentation="method 'TryAcquireLatestCpuImage'">
+            <startOffsets>
+              <option value="11830" />
+            </startOffsets>
+            <endOffsets>
+              <option value="11831" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>283</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="283" containingFunctionPresentation="method 'Awake'">
+            <startOffsets>
+              <option value="12071" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12072" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>291</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="291" containingFunctionPresentation="method 'OnBeforeStart'">
+            <startOffsets>
+              <option value="12312" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12313" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>301</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="301" containingFunctionPresentation="method 'OnDisable'">
+            <startOffsets>
+              <option value="12680" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12681" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>345</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="345" containingFunctionPresentation="method 'UpdateTexturesInfos'">
+            <startOffsets>
+              <option value="14036" />
+            </startOffsets>
+            <endOffsets>
+              <option value="14037" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARCameraManager.cs</url>
+          <line>389</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Library\PackageCache\com.unity.xr.arfoundation@4.1.7\Runtime\AR\ARCameraManager.cs" initialLine="389" containingFunctionPresentation="method 'InvokeFrameReceivedEvent'">
+            <startOffsets>
+              <option value="16012" />
+            </startOffsets>
+            <endOffsets>
+              <option value="16013" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>12</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="12" containingFunctionPresentation="property 'Scaling'">
+            <startOffsets>
+              <option value="307" />
+            </startOffsets>
+            <endOffsets>
+              <option value="326" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>14</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="14" containingFunctionPresentation="property 'NodeScaling'">
+            <startOffsets>
+              <option value="365" />
+            </startOffsets>
+            <endOffsets>
+              <option value="388" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>15</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="15" containingFunctionPresentation="property 'EdgeScaling'">
+            <startOffsets>
+              <option value="426" />
+            </startOffsets>
+            <endOffsets>
+              <option value="449" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>16</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="16" containingFunctionPresentation="property 'BoardScaling'">
+            <startOffsets>
+              <option value="488" />
+            </startOffsets>
+            <endOffsets>
+              <option value="512" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>17</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="17" containingFunctionPresentation="property 'BoardPadding'">
+            <startOffsets>
+              <option value="551" />
+            </startOffsets>
+            <endOffsets>
+              <option value="575" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>18</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="18" containingFunctionPresentation="property 'BoardRotation'">
+            <startOffsets>
+              <option value="617" />
+            </startOffsets>
+            <endOffsets>
+              <option value="642" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Game/PuzzleScale.cs</url>
+          <line>20</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Game\PuzzleScale.cs" initialLine="20" containingFunctionPresentation="property 'Margin'">
+            <startOffsets>
+              <option value="686" />
+            </startOffsets>
+            <endOffsets>
+              <option value="719" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/View/Control/GameDef.cs</url>
+          <line>67</line>
+          <properties documentPath="C:\Users\bocci\Desktop\Nodulus\Assets\Scripts\View\Control\GameDef.cs" initialLine="67" containingFunctionPresentation="property 'Get'">
+            <startOffsets>
+              <option value="2414" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2418" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -29,11 +29,11 @@ namespace View.Items
         {
             _puzzleScale = GetComponentInParent<PuzzleScale>();
             
-            var arcPos = arc.Direction.Vector() * arc.Length / 2;
+            var arcPos = arc.Direction.Vector() * arc.Length;
 
             var puzzleLocalScale = _puzzleScale.transform.localScale;
             var width = arc.Length * _puzzleScale.Scaling - _puzzleScale.NodeScaling;
-            var lengthScale = Vector3.Scale(new Vector3(width, 1f, 1f), puzzleLocalScale);
+            var lengthScale = Vector3.Scale(new Vector3(width, 0.5f, 0.5f), puzzleLocalScale);  // **** sostituiti y e z da 1 a 0.5 (spessore)
 
             transform.localPosition = arcPos * _puzzleScale.Scaling;
             transform.localScale = Vector3.Scale(transform.localScale, lengthScale);
@@ -46,11 +46,11 @@ namespace View.Items
         {
             _puzzleScale = GetComponentInParent<PuzzleScale>();
             
-            var fieldPos = field.Direction.Vector() * field.Length / 2;
+            var fieldPos = field.Direction.Vector() * field.Length;
             
             var puzzleLocalScale = _puzzleScale.transform.localScale;
             var width = field.Length * _puzzleScale.Scaling - _puzzleScale.NodeScaling;
-            var lengthScale = Vector3.Scale(new Vector3(width, 1f, 1f), puzzleLocalScale);
+            var lengthScale = Vector3.Scale(new Vector3(width, 0.5f, 0.5f), puzzleLocalScale); // **** sostituiti y e z da 1 a 0.5 (spessore)
 
             transform.localPosition = fieldPos * _puzzleScale.Scaling;
             transform.localScale = Vector3.Scale(transform.localScale, lengthScale);

@@ -44,6 +44,7 @@ namespace View.Game
 
         public Puzzle SpawnBoard(int level, float animationSpeed = 1f, float delayScale = 1f, bool restart = false)
         {
+            Debug.Log("Puzzle Spawn inizia qui");   //  *****
             // Create the game board model
             var newGameBoard = Levels.BuildLevel(level, restart);
 
@@ -61,9 +62,11 @@ namespace View.Game
             InstantiateFields();
             InstantiateArcs();
 
+            
             StartAnimations(animationSpeed, delayScale);
 
             // Wrap a puzzle around the gameboard and return it
+            Debug.Log("Puzzle Spawn finisce qui");   //  *****
             return new Puzzle(_gameBoard);
         }
 

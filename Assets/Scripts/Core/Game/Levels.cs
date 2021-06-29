@@ -35,11 +35,13 @@ namespace Core.Game
 
         public static GameBoard BuildLevel(int levelNum, bool restart = false)
         {
+            Debug.Log("Levels inizia qui ");	// *******
             if (levelNum < 0 || levelNum >= LevelCount) {
                 return null;
             }
 
             var level = restart ? OriginalLevels.Levels[levelNum] : CurrentLevels.Levels[levelNum];
+            Debug.Log("Levels finisce qui ");	// *******
             return GameBoardBuilder.BuildBoard(level);
         }
 

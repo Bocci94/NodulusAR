@@ -19,7 +19,9 @@ namespace View.Control
 
 		private bool _scrollEnabled;
 
+		
 		private int _selectedLevel;
+		
 		private GameObject[] _levels;
 		private Tuple<float, float>[] _levelBounds;
 
@@ -74,6 +76,7 @@ namespace View.Control
 
 		private void Start()
 		{
+			Debug.Log("Scroll View inizia qui ");	// *******
 			var panRecognizer = new TKPanRecognizer();
 			panRecognizer.gestureRecognizedEvent += OnPan;
 			panRecognizer.gestureCompleteEvent += OnPanComplete;
@@ -84,7 +87,9 @@ namespace View.Control
 			TouchKit.addGestureRecognizer(tapRecognizer);
 			
 			// Start with the saved start level
-			_selectedLevel = Levels.CurrentLevelNum;
+
+			_selectedLevel =Levels.CurrentLevelNum; 
+			
 			
 			GenerateLevelsList();
 
@@ -107,6 +112,7 @@ namespace View.Control
 			transform.position = Vector3.up * mid;
 			
 			puzzleState.Init(_selectedLevel);
+			Debug.Log("Scroll View finisce qui ");	// *******
 		}
 
 		private void FixedUpdate()
@@ -331,8 +337,11 @@ namespace View.Control
 			// Keep track of the last board's position as the offset for the next board
 			var prevOffset = 0f;
 
-			// Generate all levels at the appropriate offsets
-			for (var level = 0; level < Levels.LevelCount; level++) {
+			
+			
+				// Generate all levels at the appropriate offsets
+			for (var level = 0; level < Levels.LevelCount; level++)
+			{
 				GenerateLevel(level, margin, ref prevOffset);
 			}
 			
@@ -355,7 +364,7 @@ namespace View.Control
 				return;
 			}
 			
-			var boardSize = (Vector2) board.Size * puzzleScale.Scaling / 2f;;
+			var boardSize = (Vector2) board.Size * puzzleScale.Scaling / 2f;
 			
 			_levels[level] = puzzleGame;
 
@@ -363,7 +372,7 @@ namespace View.Control
 			
 			puzzleGame.GetComponent<BoardInput>().enabled = false;
 
-			var boardHeight = boardSize.y * puzzleScale.Scaling / 2f;
+			var boardHeight = boardSize.y * puzzleScale.Scaling / 1.2f;
 
 			var boardStartBounds = prevOffset;
 			prevOffset += boardHeight + margin;
